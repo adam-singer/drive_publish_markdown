@@ -1,0 +1,11 @@
+name:  drive_publish_markdown
+description:  Publishing markdown content to a public drive site
+dependencies:
+  urlshortener_v1_api:
+    git: https://github.com/financeCoding/urlshortener_v1_api_client.git
+  drive_v2_api:
+    git: https://github.com/financeCoding/drive_v2_api_client.git
+  markdown:
+    git: https://github.com/financeCoding/markdown.dart.git
+#  js: any
+#  unittest: any
